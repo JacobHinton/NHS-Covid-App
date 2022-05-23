@@ -1,4 +1,4 @@
-# NHS-Covid-App
+# NHS-Covid-App-Team-Project
 An app that visualises the cases and deaths of people who have had covid-19 and predicts future cases based on earlier data
 
 
